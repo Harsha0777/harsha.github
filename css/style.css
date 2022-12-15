@@ -279,6 +279,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .top-header .navbar{
+	border: 3px solid rgb(0, 0, 0);
 	padding: 15px 0px;
 }
 
